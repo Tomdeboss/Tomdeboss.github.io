@@ -1,0 +1,91 @@
+html 
+{
+ /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "BBH Sans Hegarty", sans-serif; 
+  font-weight: 400; 
+  font-style: normal; 
+} 
+  
+  
+h1 
+{
+  font-size: 80px;
+  text-align: center;
+  background-color: #00000072;
+  margin: 0;
+  padding: 20px 0;
+  color: #001eff;
+  text-shadow: 10px 5px 4px #000000;
+}
+
+h2
+{
+ font-size: 30px;
+ text-align: center;
+ letter-spacing: 3px;
+}
+
+h3
+{
+ font-size: 10px;
+ text-align: center;
+}
+
+h4
+{
+ font-size: 5px;
+ text-align: center;
+}
+
+ 
+p
+{
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 3px;
+  text-align: center; /* zentriert horizontal */
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+  
+a
+{
+  display: block;  
+  font-size: 25px;
+  color: rgb(255, 0, 0);
+  text-align: center;
+  text-shadow: 2px 0px 0px #ff00007c;
+  text-decoration-color: #ff000073;
+  
+  
+}
+
+
+html 
+{
+  background-color: #000000;
+}
+
+body 
+{
+  width: 800px;
+  margin: 0 auto;
+  background-color: #332f2f;
+  padding: 9 20px 20px 20px;
+  border: 10px solid black;
+}
+
+
+img 
+{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+
+
+
